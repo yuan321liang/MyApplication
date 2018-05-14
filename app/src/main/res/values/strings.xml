@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ldap">LDAP</string>
+    <string name="login_in">login in</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+
+</resources>
